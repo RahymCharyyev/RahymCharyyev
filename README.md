@@ -10,9 +10,10 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=RahymCharyyev&style=flat-square&color=blue" alt="RahymCharyyev profil visits"/>
 <h1>
-  hey there
+  hey, I'm Rahym
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RahymCharyyev" alt="RahymCharyyev" /></a>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -29,7 +30,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles on Medium.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahym-charyyev-451b19214/)
+- :mailbox:How to reach me: r569837@gmail.com
 
 ---
 
@@ -52,3 +53,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RahymCharyyev&theme=light&background=ffffff)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahymCharyyev&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RahymCharyyev&show_icons=true&locale=en" alt="RahymCharyyev" /></p>
