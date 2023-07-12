@@ -30,7 +30,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on LeetCode and read tech articles on Medium.
 
-- :mailbox:How to reach me: r569837@gmail.com
+- :mailbox:How to reach me: charyyevrahimberdi@gmail.com
 
 ---
 
