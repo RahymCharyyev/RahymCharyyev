@@ -28,7 +28,7 @@
 🛠️ My Toolbox:
 - 💻 React.js | React Native: I breathe and live React. From creating responsive UI components to managing complex state, React is my go-to library.
 - 🎨 HTML & CSS: I craft pixel-perfect, elegant, and responsive user interfaces using HTML5 and CSS3.
-- 📦 Redux | Mobx | Zustand: I harness the power of Redux for efficient state management in large-scale applications.
+- 📦 Redux | Recoil | Zustand: I harness the power of Redux for efficient state management in large-scale applications.
 - 🔄 Hooks: I love React Hooks for functional components, making code cleaner and more maintainable.
 - 📱 Responsive Design: Building applications that work seamlessly on all devices is my forte.
 - 🌐 RESTful APIs: I connect the frontend with backend services using RESTful APIs for dynamic data retrieval.
@@ -45,7 +45,7 @@
 
 🌐 Connect with Me:
 - GitHub: [github.com/RahymCharyyev](https://github.com/RahymCharyyev)
-- LinkedIn: [linkedin.com/in/ rahym-charyyev-rc]( https://www.linkedin.com/in/rahym-charyyev-rc/)
+- LinkedIn: [linkedin.com/in/rahym-charyyev-rc]( https://www.linkedin.com/in/rahym-charyyev-rc/)
 - Gmail: [charyyevrahimberdi@gmail.com](charyyevrahimberdi@gmail.com)
 
 📬 Feel free to reach out for collaboration, advice, or just to geek out about React! Let's build amazing web experiences together! 🚀
