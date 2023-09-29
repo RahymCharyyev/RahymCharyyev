@@ -23,14 +23,33 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkmenistan.
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+👋 Hey there! I'm Rahym Charyyev, a passionate frontend developer with a strong focus on building interactive and user-friendly web applications using the React ecosystem.
 
-- :seedling: Exploring Technical Content Writing.
+🛠️ My Toolbox:
+- 💻 React.js | React Native: I breathe and live React. From creating responsive UI components to managing complex state, React is my go-to library.
+- 🎨 HTML & CSS: I craft pixel-perfect, elegant, and responsive user interfaces using HTML5 and CSS3.
+- 📦 Redux | Mobx | Zustand: I harness the power of Redux for efficient state management in large-scale applications.
+- 🔄 Hooks: I love React Hooks for functional components, making code cleaner and more maintainable.
+- 📱 Responsive Design: Building applications that work seamlessly on all devices is my forte.
+- 🌐 RESTful APIs: I connect the frontend with backend services using RESTful APIs for dynamic data retrieval.
+- 🚀 Performance Optimization: I obsess over performance to ensure fast-loading and smooth user experiences.
+- 🧪 Testing: Writing unit tests with Jest and React Testing Library is part of my development process.
+- 🧹 Code Quality: I maintain clean and well-documented code following industry best practices.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles on Medium.
+🌟 What Sets Me Apart:
+- 👨‍💻 Strong problem-solving skills to tackle complex challenges.
+- 🤝 Excellent teamwork and communication abilities.
+- 📚 Constantly learning and keeping up with the latest trends in frontend development.
+- 💡 Passion for creating intuitive and visually appealing user interfaces.
+- 🚧 Committed to delivering projects on time and within budget.
 
-- :mailbox:How to reach me: charyyevrahimberdi@gmail.com
+🌐 Connect with Me:
+- GitHub: [github.com/RahymCharyyev](https://github.com/RahymCharyyev)
+- LinkedIn: [linkedin.com/in/ rahym-charyyev-rc]( https://www.linkedin.com/in/rahym-charyyev-rc/)
+- Gmail: [charyyevrahimberdi@gmail.com](charyyevrahimberdi@gmail.com)
+
+📬 Feel free to reach out for collaboration, advice, or just to geek out about React! Let's build amazing web experiences together! 🚀
+
 
 ---
 
