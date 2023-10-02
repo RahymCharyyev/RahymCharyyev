@@ -26,7 +26,7 @@
 👋 Hey there! I'm Rahym Charyyev, a passionate frontend developer with a strong focus on building interactive and user-friendly web applications using the React ecosystem.
 
 🛠️ My Toolbox:
-- 💻 React.js | React Native: I breathe and live React. From creating responsive UI components to managing complex state, React is my go-to library.
+- 💻 React.js | Next.js | React Native: I breathe and live React and it's ecosystem. From creating responsive UI components to managing complex state, React is my go-to library.
 - 🎨 HTML & CSS: I craft pixel-perfect, elegant, and responsive user interfaces using HTML5 and CSS3.
 - 📦 Redux | Recoil | Zustand: I harness the power of Redux for efficient state management in large-scale applications.
 - 🔄 Hooks: I love React Hooks for functional components, making code cleaner and more maintainable.
